@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajalck
+- 👋 Hi, I’m @Prasanth pn
 - 👀 I’m interested in golang projects
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on  golang projects...
