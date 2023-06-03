@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prasanth pn
-- 👀 I’m interested in golang projects
-- 🌱 I’m currently learning unittesting in go and dockerize the project
+- 👀 Self Learner | Golang Develper
+- 
 - 💞️ I’m looking to collaborate on  golang projects...
-- 📫 How to reach me prasanthpn68@gmail.com...
+- 📫 Reach me prasanthpn68@gmail.com...
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanth-pn&label=Profile%20views&color=0e75b6&style=flat" alt="prasanth-pn" /> </p>
 <!---
 prasanth-pn/prasanth-pn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
