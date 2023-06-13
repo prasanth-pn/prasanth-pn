@@ -1,6 +1,6 @@
 # Hi there, I'm [PRASANTH P N] 👋
 
-<img align="right" src="[https://raw.githubusercontent.com/your-username/your-username/main/gopher.png](https://unsplash.com/photos/fd9mIBluHkA)" width="300"/>
+<img align="right" src="[https://raw.githubusercontent.com/prasanth-pn/main/gopher.png](https://unsplash.com/photos/fd9mIBluHkA](https://images.unsplash.com/photo-1642367340318-96fdbc5d30f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)" width="300"/>
 
 ## About Me
 
