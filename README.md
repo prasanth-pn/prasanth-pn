@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [PRASANTH P N] 👋
 
 <img align="right" src="https://raw.githubusercontent.com/your-username/your-username/main/gopher.png" width="300"/>
 
@@ -8,12 +8,13 @@ I am a passionate Golang developer and a lifelong learner who thrives on explori
 
 ## Skills
 
-- Programming Languages: Golang, Python, JavaScript
+- Programming Languages: Golang,C,Java
 - Web Technologies: HTML, CSS, RESTful APIs
-- Databases: PostgreSQL, MongoDB, MySQL
-- DevOps: Docker, Kubernetes, CI/CD
+- Databases: PostgreSQL, MongoDB, Redis
+- DevOps: Docker, CI/CD
 - Version Control: Git, GitHub
-- Testing: Unit Testing, Integration Testing
+- Testing: Unit Testing,
+- Microservices : Grpc
 
 ## Projects
 
