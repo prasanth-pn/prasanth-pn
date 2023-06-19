@@ -1,5 +1,5 @@
 # Hi there, I'm [PRASANTH P N] 👋
-<label>https://visitor-badge.glitch.me/</label>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanth-pn&label=Profile%20views&color=0e75b6&style=flat" alt="prasanth-pn" /> </p>
 
 
 ## About Me
