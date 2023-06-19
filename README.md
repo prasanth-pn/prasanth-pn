@@ -1,5 +1,5 @@
 # Hi there, I'm [PRASANTH P N] 👋
-https://visitor-badge.glitch.me/
+<label>https://visitor-badge.glitch.me/</label>
 
 
 ## About Me
