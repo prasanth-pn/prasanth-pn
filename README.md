@@ -1,5 +1,5 @@
 # Hi there, I'm [PRASANTH P N] 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanth-pn&label=Profile%20views&color=0e75b6&style=flat" alt="prasanth-pn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanth-pn&label=Profile%20views&color=0e75b6&style=flat" alt="prasanth-pn" width="150" height="auto" /> </p>
 
 
 ## About Me
